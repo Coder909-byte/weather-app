@@ -1,0 +1,41 @@
+{
+  "cities": [
+    {
+      "checked_at_utc": "2026-10-30T16:45:31.779488+00:00",
+      "city": "Amritsar",
+      "country": "India",
+      "timezone": "Asia/Kolkata",
+      "observed_local": "2026-10-30T22:15:00+05:30",
+      "temperature_c": 20.9,
+      "weather_code": 0,
+      "hourly_rows": 168,
+      "daily_rows": 7,
+      "status": "PASS"
+    },
+    {
+      "checked_at_utc": "2026-10-30T16:45:33.026905+00:00",
+      "city": "London",
+      "country": "United Kingdom",
+      "timezone": "Europe/London",
+      "observed_local": "2026-10-30T16:45:00+00:00",
+      "temperature_c": 14.5,
+      "weather_code": 0,
+      "hourly_rows": 168,
+      "daily_rows": 7,
+      "status": "PASS"
+    },
+    {
+      "checked_at_utc": "2026-10-30T16:45:34.565423+00:00",
+      "city": "Tokyo",
+      "country": "Japan",
+      "timezone": "Asia/Tokyo",
+      "observed_local": "2026-10-31T01:45:00+09:00",
+      "temperature_c": 13.1,
+      "weather_code": 1,
+      "hourly_rows": 168,
+      "daily_rows": 7,
+      "status": "PASS"
+    }
+  ],
+  "empty_search": "PASS"
+}

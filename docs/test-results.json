@@ -1,0 +1,16 @@
+[
+  {
+    "suite": "com.aeris.weather.WeatherLogicTest",
+    "tests": 13,
+    "failures": 0,
+    "errors": 0,
+    "skipped": 0
+  },
+  {
+    "suite": "com.aeris.weather.WeatherRepositoryTest",
+    "tests": 7,
+    "failures": 0,
+    "errors": 0,
+    "skipped": 0
+  }
+]
